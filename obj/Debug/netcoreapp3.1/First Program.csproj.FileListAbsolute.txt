@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\LearnFromHime\C#\First Program\bin\Debug\netcoreapp3.1\First Program.exe
+C:\Users\HP\Desktop\LearnFromHime\C#\First Program\bin\Debug\netcoreapp3.1\First Program.deps.json
+C:\Users\HP\Desktop\LearnFromHime\C#\First Program\bin\Debug\netcoreapp3.1\First Program.runtimeconfig.json
+C:\Users\HP\Desktop\LearnFromHime\C#\First Program\bin\Debug\netcoreapp3.1\First Program.runtimeconfig.dev.json
+C:\Users\HP\Desktop\LearnFromHime\C#\First Program\bin\Debug\netcoreapp3.1\First Program.dll
+C:\Users\HP\Desktop\LearnFromHime\C#\First Program\bin\Debug\netcoreapp3.1\First Program.pdb
+C:\Users\HP\Desktop\LearnFromHime\C#\First Program\obj\Debug\netcoreapp3.1\First Program.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\LearnFromHime\C#\First Program\obj\Debug\netcoreapp3.1\First Program.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\LearnFromHime\C#\First Program\obj\Debug\netcoreapp3.1\First Program.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\LearnFromHime\C#\First Program\obj\Debug\netcoreapp3.1\First Program.AssemblyInfo.cs
+C:\Users\HP\Desktop\LearnFromHime\C#\First Program\obj\Debug\netcoreapp3.1\First Program.dll
+C:\Users\HP\Desktop\LearnFromHime\C#\First Program\obj\Debug\netcoreapp3.1\First Program.pdb
+C:\Users\HP\Desktop\LearnFromHime\C#\First Program\obj\Debug\netcoreapp3.1\First Program.genruntimeconfig.cache
