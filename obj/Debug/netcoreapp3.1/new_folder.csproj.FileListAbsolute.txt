@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\LearnFromHime\C#\new_folder\bin\Debug\netcoreapp3.1\new_folder.exe
+C:\Users\HP\Desktop\LearnFromHime\C#\new_folder\bin\Debug\netcoreapp3.1\new_folder.deps.json
+C:\Users\HP\Desktop\LearnFromHime\C#\new_folder\bin\Debug\netcoreapp3.1\new_folder.runtimeconfig.json
+C:\Users\HP\Desktop\LearnFromHime\C#\new_folder\bin\Debug\netcoreapp3.1\new_folder.runtimeconfig.dev.json
+C:\Users\HP\Desktop\LearnFromHime\C#\new_folder\bin\Debug\netcoreapp3.1\new_folder.dll
+C:\Users\HP\Desktop\LearnFromHime\C#\new_folder\bin\Debug\netcoreapp3.1\new_folder.pdb
+C:\Users\HP\Desktop\LearnFromHime\C#\new_folder\obj\Debug\netcoreapp3.1\new_folder.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\LearnFromHime\C#\new_folder\obj\Debug\netcoreapp3.1\new_folder.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\LearnFromHime\C#\new_folder\obj\Debug\netcoreapp3.1\new_folder.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\LearnFromHime\C#\new_folder\obj\Debug\netcoreapp3.1\new_folder.AssemblyInfo.cs
+C:\Users\HP\Desktop\LearnFromHime\C#\new_folder\obj\Debug\netcoreapp3.1\new_folder.dll
+C:\Users\HP\Desktop\LearnFromHime\C#\new_folder\obj\Debug\netcoreapp3.1\new_folder.pdb
+C:\Users\HP\Desktop\LearnFromHime\C#\new_folder\obj\Debug\netcoreapp3.1\new_folder.genruntimeconfig.cache
