@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\LearnFromHime\C#\Conditional_statement\bin\Debug\netcoreapp3.1\Conditional_statement.exe
+C:\Users\HP\Desktop\LearnFromHime\C#\Conditional_statement\bin\Debug\netcoreapp3.1\Conditional_statement.deps.json
+C:\Users\HP\Desktop\LearnFromHime\C#\Conditional_statement\bin\Debug\netcoreapp3.1\Conditional_statement.runtimeconfig.json
+C:\Users\HP\Desktop\LearnFromHime\C#\Conditional_statement\bin\Debug\netcoreapp3.1\Conditional_statement.runtimeconfig.dev.json
+C:\Users\HP\Desktop\LearnFromHime\C#\Conditional_statement\bin\Debug\netcoreapp3.1\Conditional_statement.dll
+C:\Users\HP\Desktop\LearnFromHime\C#\Conditional_statement\bin\Debug\netcoreapp3.1\Conditional_statement.pdb
+C:\Users\HP\Desktop\LearnFromHime\C#\Conditional_statement\obj\Debug\netcoreapp3.1\Conditional_statement.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\LearnFromHime\C#\Conditional_statement\obj\Debug\netcoreapp3.1\Conditional_statement.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\LearnFromHime\C#\Conditional_statement\obj\Debug\netcoreapp3.1\Conditional_statement.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\LearnFromHime\C#\Conditional_statement\obj\Debug\netcoreapp3.1\Conditional_statement.AssemblyInfo.cs
+C:\Users\HP\Desktop\LearnFromHime\C#\Conditional_statement\obj\Debug\netcoreapp3.1\Conditional_statement.dll
+C:\Users\HP\Desktop\LearnFromHime\C#\Conditional_statement\obj\Debug\netcoreapp3.1\Conditional_statement.pdb
+C:\Users\HP\Desktop\LearnFromHime\C#\Conditional_statement\obj\Debug\netcoreapp3.1\Conditional_statement.genruntimeconfig.cache
