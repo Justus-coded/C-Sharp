@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\LearnFromHime\C#\Loops Assignment\bin\Debug\netcoreapp3.1\Loops Assignment.exe
+C:\Users\HP\Desktop\LearnFromHime\C#\Loops Assignment\bin\Debug\netcoreapp3.1\Loops Assignment.deps.json
+C:\Users\HP\Desktop\LearnFromHime\C#\Loops Assignment\bin\Debug\netcoreapp3.1\Loops Assignment.runtimeconfig.json
+C:\Users\HP\Desktop\LearnFromHime\C#\Loops Assignment\bin\Debug\netcoreapp3.1\Loops Assignment.runtimeconfig.dev.json
+C:\Users\HP\Desktop\LearnFromHime\C#\Loops Assignment\bin\Debug\netcoreapp3.1\Loops Assignment.dll
+C:\Users\HP\Desktop\LearnFromHime\C#\Loops Assignment\bin\Debug\netcoreapp3.1\Loops Assignment.pdb
+C:\Users\HP\Desktop\LearnFromHime\C#\Loops Assignment\obj\Debug\netcoreapp3.1\Loops Assignment.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\LearnFromHime\C#\Loops Assignment\obj\Debug\netcoreapp3.1\Loops Assignment.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\LearnFromHime\C#\Loops Assignment\obj\Debug\netcoreapp3.1\Loops Assignment.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\LearnFromHime\C#\Loops Assignment\obj\Debug\netcoreapp3.1\Loops Assignment.AssemblyInfo.cs
+C:\Users\HP\Desktop\LearnFromHime\C#\Loops Assignment\obj\Debug\netcoreapp3.1\Loops Assignment.dll
+C:\Users\HP\Desktop\LearnFromHime\C#\Loops Assignment\obj\Debug\netcoreapp3.1\Loops Assignment.pdb
+C:\Users\HP\Desktop\LearnFromHime\C#\Loops Assignment\obj\Debug\netcoreapp3.1\Loops Assignment.genruntimeconfig.cache
